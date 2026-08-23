@@ -1,0 +1,4 @@
+Test_Type,Group_1,Group_2,N1,N2,Mean_1,Mean_2,Mean_Diff,SE_Diff,t_Statistic,Degrees_of_Freedom_df,p_value,CI_95_Lower,CI_95_Upper,Cohens_d,Hedges_g,Decision
+Welch's Two-Sample t-test (Primary Secondary Test),High Quality (>= 7),Low Quality (<= 5),217,744,11.518,9.9265,1.5916,0.0732,21.732,292.37,5.442160567212973e-63,1.4474,1.7357,1.945,1.9435,Reject H0 (p < 0.05)
+Student's Two-Sample t-test (Equal Variance Assumed),High Quality (>= 7),Low Quality (<= 5),217,744,11.518,9.9265,1.5916,0.0631,25.2107,959.0,5.287412406709279e-108,1.4677,1.7155,1.945,1.9435,Reject H0 (p < 0.05)
+Mann-Whitney U Test (Non-Parametric Robustness),High Quality (>= 7),Low Quality (<= 5),217,744,11.6,9.7,1.9,,145136.0,,7.084564119698104e-72,,,-0.7979,,Reject H0 (p < 0.05)

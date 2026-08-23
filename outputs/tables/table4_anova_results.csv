@@ -1,0 +1,4 @@
+Source_of_Variation,Sum_of_Squares_SS,Degrees_of_Freedom_df,Mean_Square_MS,F_Statistic,p_value,Eta_Squared_eta2,Omega_Squared_omega2,Decision
+Between Quality Groups,483.938,5,96.7876,115.8548,1.2098951580576338e-104,0.2667,0.2642,Reject H0 (p < 0.05)
+Within Quality Groups (Residuals),1330.8266,1593,0.8354,,,,,
+Total,1814.7645,1598,,,,,,

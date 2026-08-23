@@ -1,0 +1,5 @@
+Assumption,Test,Statistic_Name,Statistic_Value,p_value,Alpha,Null_Hypothesis,Conclusion
+Normality (ANOVA Residuals),Shapiro-Wilk Test,W,0.967,1.1993323660236637e-18,0.05,Residuals are normally distributed,Reject H0 (Deviates from strict normality; robust at N=1599 via CLT)
+Normality (ANOVA Residuals),Kolmogorov-Smirnov Test,D,0.0963,2.268579777331572e-13,0.05,Standardized residuals follow standard normal distribution,Reject H0 (Statistically significant deviation; inspect Q-Q plot)
+Homoscedasticity,Levene Test (Median-centered),W,24.226,1.4542600482996888e-23,0.05,Group variances in alcohol content are equal,Reject H0 (Heteroscedasticity detected; report Welch/robust tests)
+Homoscedasticity,Bartlett Test,T,85.743,5.258666249150517e-17,0.05,Group variances in alcohol content are equal,Reject H0 (Confirms variance heterogeneity across quality levels)

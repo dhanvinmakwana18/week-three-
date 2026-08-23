@@ -1,0 +1,2 @@
+Variable,Sample_Size_N,Mean,Std_Dev,Variance,Median,Q1_25pct,Q3_75pct,IQR,Min,Max,Std_Error,CI_95_Lower,CI_95_Upper,Skewness,Kurtosis
+Alcohol (% by volume),1599,10.423,1.0657,1.1356,10.2,9.5,11.1,1.6,8.4,14.9,0.0267,10.3707,10.4753,0.8608,0.2
