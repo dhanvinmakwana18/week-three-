@@ -1,4 +1,4 @@
-# Week 3 ? Statistical Analysis & Hypothesis Testing
+# Week 3 Statistical Analysis & Hypothesis Testing
 
 An end-to-end, reproducible inferential data science project investigating the physicochemical determinants of sensory wine quality via One-Way Analysis of Variance (ANOVA), Tukey HSD post-hoc multiple comparisons, and Welch's independent samples t-tests in Python.
 
@@ -6,7 +6,7 @@ An end-to-end, reproducible inferential data science project investigating the p
 
 ## Research Question
 
-**Does mean alcohol content differ across red wine quality ratings?**
+**Does mean alcohol content differ across red wine quality ratings**
 
 - **Null Hypothesis ($H_0$):** Population mean alcohol content is identical across all quality levels (scores 3 through 8):
   $$\mu_3 = \mu_4 = \mu_5 = \mu_6 = \mu_7 = \mu_8$$
